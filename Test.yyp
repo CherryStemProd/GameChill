@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "f29aee28-dec5-46a9-8459-67231cbc68a6",
+            "Value": {
+                "id": "fcf02d77-e99f-48ed-8d50-7453999677bb",
+                "resourcePath": "sprites\\hefojesabfnkaslmcdm\\hefojesabfnkaslmcdm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "cbb96026-090a-42cf-b77a-8b1d768d2f5a",
