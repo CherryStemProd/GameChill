@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "d036a360-6079-4591-9806-7202e400924f",
+            "Value": {
+                "id": "d3012840-9aa9-49e8-8a40-527378049070",
+                "resourcePath": "sprites\\dicks\\dicks.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e1dd054c-e0e5-4433-86f0-e65e64484b15",
             "Value": {
                 "id": "7ab77350-d50b-4604-9a7a-6c58813f8c92",
