@@ -50,7 +50,7 @@
             "Key": "0ef9ef94-91c0-4e36-8eff-17e081c31e43",
             "Value": {
                 "id": "88e19666-cee9-4777-beff-f25ff205f587",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_letter\\room_letter.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -76,6 +76,14 @@
                 "id": "ef91cfc0-8bec-40ea-9e44-972b169e60b9",
                 "resourcePath": "views\\5b2979a0-0cca-48a2-9788-fc2e24eae229.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5d55298e-e609-42ba-bdc4-abac37dd9fa4",
+            "Value": {
+                "id": "ee0b4bdb-2612-44e5-824c-3c89de5a0abf",
+                "resourcePath": "rooms\\roon_partone\\roon_partone.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -124,6 +132,14 @@
                 "id": "6203e42e-28a4-4a99-b484-facfdeeedc71",
                 "resourcePath": "views\\8736c4af-fda0-4dc8-bcfd-24813ee659a5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "99c93233-273b-4b80-b8a2-67cb77833399",
+            "Value": {
+                "id": "3797eec9-9a8b-4bda-a49e-2281321efd14",
+                "resourcePath": "rooms\\room_opener\\room_opener.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -215,11 +231,19 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "e7b25247-bfc9-442a-805f-24e36257d193",
             "Value": {
                 "id": "88bf030c-b9bb-4878-a69b-e9b6f6c1f446",
                 "resourcePath": "objects\\obj_oldest\\obj_oldest.yy",
                 "resourceType": "GMObject"
+=======
+            "Key": "e3e34881-0228-4dd0-bb87-f7f2c65b1f19",
+            "Value": {
+                "id": "2abe1329-81ee-4c3e-8c92-5f61e3022dc8",
+                "resourcePath": "rooms\\room_end\\room_end.yy",
+                "resourceType": "GMRoom"
+>>>>>>> 216922b7ac3f7a0a7c2ab89f9a613edd2e00fb3f
             }
         },
         {
