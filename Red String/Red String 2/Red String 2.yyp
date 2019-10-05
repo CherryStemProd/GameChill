@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0518b345-a65d-4c01-88eb-2163a426f75e",
+            "Value": {
+                "id": "b323c53b-dffa-4bdf-9c2d-d5e71fbde566",
+                "resourcePath": "sounds\\main_menu\\main_menu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0cc5592f-93ec-4d90-9e4d-1bcc91446014",
             "Value": {
                 "id": "756b7421-09fc-42be-a5a7-3ca8d6589d90",
@@ -60,6 +68,14 @@
                 "id": "128db655-893f-4179-b0d9-22750340442c",
                 "resourcePath": "scripts\\Step_211\\Step_211.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "23d6e08c-1984-42ef-b570-5614d75053aa",
+            "Value": {
+                "id": "2631c51c-326e-4090-83a6-54373103910e",
+                "resourcePath": "sounds\\the_letter\\the_letter.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "49d9897d-5011-46f0-a448-bfaf7935f768",
+            "Value": {
+                "id": "7f2b6e71-9f66-4f4d-97d7-65702f75567e",
+                "resourcePath": "sounds\\red_string\\red_string.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4b22889d-031a-4bd4-8c69-4f1055720303",
             "Value": {
                 "id": "af4b5b88-81a4-4576-86f4-1a027e5f07c9",
@@ -223,6 +247,14 @@
             }
         },
         {
+            "Key": "8dd39d0f-e6b5-40ef-8ac3-652f2ac8a485",
+            "Value": {
+                "id": "0eab8e7d-834c-4c1c-9a33-e0002a9d72d1",
+                "resourcePath": "rooms\\letter_room\\letter_room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "995f1a77-f25a-4006-8892-2faa487968b5",
             "Value": {
                 "id": "6d07d956-8015-44ad-895d-81cee62fb27c",
@@ -276,6 +308,14 @@
                 "id": "44cf7dbc-8f47-44ad-b687-a89cf06466b9",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab1c6cf6-0b44-4b47-85eb-ce9160ef96f2",
+            "Value": {
+                "id": "af2ce8a4-8766-4bfa-a057-182070584f05",
+                "resourcePath": "sounds\\heading_home\\heading_home.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -359,6 +399,14 @@
             }
         },
         {
+            "Key": "e08f8f6a-d0db-4256-90c8-fce15c2fd32e",
+            "Value": {
+                "id": "af95fdd8-aadb-4300-a721-23bff6fb5282",
+                "resourcePath": "sounds\\delivering_the_letter\\delivering_the_letter.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f10b62b4-18a0-4c70-8ae8-198fd2dba4db",
             "Value": {
                 "id": "2d994c72-77fb-4c7b-b774-80e6f7529fdd",
@@ -396,6 +444,14 @@
                 "id": "f5f32b58-26b0-45f2-9495-8cfa80da4c04",
                 "resourcePath": "views\\faa9d4f7-74b6-4014-b22e-657162d85571.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fcef1300-83c4-4622-ad9d-c8cd3ddb4beb",
+            "Value": {
+                "id": "6f9724b2-16bc-4f0c-b5b0-1e6642d4a74b",
+                "resourcePath": "sounds\\credits\\credits.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
