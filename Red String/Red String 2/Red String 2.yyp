@@ -215,11 +215,19 @@
             }
         },
         {
+<<<<<<< HEAD
+            "Key": "66adc2cf-be98-4364-a058-c28eaafe96e0",
+            "Value": {
+                "id": "3373dbe1-a52f-4ac4-bab1-5ab7e999289a",
+                "resourcePath": "sprites\\sprYoungJump\\sprYoungJump.yy",
+                "resourceType": "GMSprite"
+=======
             "Key": "67512812-e661-42fc-9b62-88694ff13511",
             "Value": {
                 "id": "853fcd8d-a23e-42dc-8aa1-9b720f1021b9",
                 "resourcePath": "objects\\objRope\\objRope.yy",
                 "resourceType": "GMObject"
+>>>>>>> c84022608446c6aba5178fc3abefb7493a3822c5
             }
         },
         {
@@ -311,6 +319,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "ab1c6cf6-0b44-4b47-85eb-ce9160ef96f2",
             "Value": {
                 "id": "af2ce8a4-8766-4bfa-a057-182070584f05",
@@ -319,6 +328,27 @@
             }
         },
         {
+=======
+<<<<<<< HEAD
+            "Key": "aa005353-30d8-49bc-af24-fa89f8896ead",
+            "Value": {
+                "id": "5e010c1d-9864-4e72-96d4-9ab686eb97e0",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "aae40d34-6be0-4632-bcc9-7750ce1bde34",
+            "Value": {
+                "id": "bc6306c7-041a-41e6-8b33-1d1942228938",
+                "resourcePath": "sprites\\sprOlderJump\\sprOlderJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+=======
+>>>>>>> c84022608446c6aba5178fc3abefb7493a3822c5
+>>>>>>> 121eb1b3ca77b9daa61e39f544e4c4eedef317ce
             "Key": "ae03a1b2-01a2-4b70-af27-5bc77d69cef4",
             "Value": {
                 "id": "eafad7a6-3266-4180-8fb9-51ec6e825e53",
@@ -399,11 +429,19 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "e08f8f6a-d0db-4256-90c8-fce15c2fd32e",
             "Value": {
                 "id": "af95fdd8-aadb-4300-a721-23bff6fb5282",
                 "resourcePath": "sounds\\delivering_the_letter\\delivering_the_letter.yy",
                 "resourceType": "GMSound"
+=======
+            "Key": "eab3aaa6-0a39-43d9-8810-a5099d8e4d93",
+            "Value": {
+                "id": "3b70e4cd-d053-4935-86c8-1b4acb639a26",
+                "resourcePath": "sprites\\sprMiddleJump\\sprMiddleJump.yy",
+                "resourceType": "GMSprite"
+>>>>>>> 121eb1b3ca77b9daa61e39f544e4c4eedef317ce
             }
         },
         {
