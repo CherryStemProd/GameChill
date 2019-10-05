@@ -106,7 +106,7 @@
             "Key": "6204fab1-9193-4532-b526-47f76a63992e",
             "Value": {
                 "id": "03c643dd-2b6a-4417-9094-2830c5febaad",
-                "resourcePath": "objects\\objOldest\\objOldest.yy",
+                "resourcePath": "objects\\objOlder\\objOlder.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -140,6 +140,14 @@
                 "id": "6203e42e-28a4-4a99-b484-facfdeeedc71",
                 "resourcePath": "views\\8736c4af-fda0-4dc8-bcfd-24813ee659a5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "88027033-a4e7-42bc-9d9f-f8524a185757",
+            "Value": {
+                "id": "376e3f63-b0da-4764-a221-a7e787191e6b",
+                "resourcePath": "objects\\objControlSwitching\\objControlSwitching.yy",
+                "resourceType": "GMObject"
             }
         },
         {
