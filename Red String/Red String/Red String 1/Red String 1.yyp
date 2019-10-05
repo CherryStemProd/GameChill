@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "215139b2-25a6-4121-b6d4-13acdc5f7c95",
+            "Value": {
+                "id": "d52877c4-857d-4b96-8c5d-d11ea02c71d4",
+                "resourcePath": "objects\\objRope\\objRope.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2716bec7-acbe-4d2c-8590-53a9b45421ac",
             "Value": {
                 "id": "14f0ed88-f8f6-433b-9be6-1e0e59158206",
