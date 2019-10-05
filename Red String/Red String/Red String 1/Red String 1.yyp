@@ -63,11 +63,51 @@
             }
         },
         {
+            "Key": "2386d6d8-8f76-4ed3-a6e8-768d53968cb0",
+            "Value": {
+                "id": "13a7f34e-1ca5-4c1a-9775-0f62200decc5",
+                "resourcePath": "sounds\\delivering_the_letter\\delivering_the_letter.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "25082b25-716f-4a12-a75f-905d4f788be2",
+            "Value": {
+                "id": "64913e50-e1c0-40fb-adf1-41715dc20c20",
+                "resourcePath": "sounds\\the_letter\\the_letter.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "25e3e8ee-e6f5-4637-88a7-f7748e9b9d52",
+            "Value": {
+                "id": "849ea386-82f3-4c16-86ec-39bc1e7296ea",
+                "resourcePath": "sounds\\start_screen\\start_screen.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2716bec7-acbe-4d2c-8590-53a9b45421ac",
             "Value": {
                 "id": "14f0ed88-f8f6-433b-9be6-1e0e59158206",
                 "resourcePath": "sprites\\sprOlder\\sprOlder.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "37664ceb-7569-4255-bdb2-2f5bebe2c2cc",
+            "Value": {
+                "id": "83449bcb-fb29-4490-b41b-e171ef528df0",
+                "resourcePath": "sounds\\heading_home\\heading_home.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3b3adaf3-c56e-4ac4-b7c3-7bfd72ba3b87",
+            "Value": {
+                "id": "88261213-d4e4-4b30-9d70-c54c60f4aaf7",
+                "resourcePath": "sounds\\title\\title.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -116,6 +156,14 @@
                 "id": "eeb0d3fd-a8ad-4dec-8bbc-d0a17e724777",
                 "resourcePath": "views\\643bd792-521e-40bc-aaf5-58fd0e316292.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "71ab1b32-9ba2-488f-ba3b-0c7986f664d2",
+            "Value": {
+                "id": "81604bbd-584e-4f1e-bb6d-f2c7ebce3dd4",
+                "resourcePath": "sounds\\credits\\credits.yy",
+                "resourceType": "GMSound"
             }
         },
         {
