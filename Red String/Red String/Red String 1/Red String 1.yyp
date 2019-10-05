@@ -143,11 +143,35 @@
             }
         },
         {
+            "Key": "8c589d8a-fd45-44ac-b86a-9a47343c44d0",
+            "Value": {
+                "id": "4c749595-a7db-4dec-b7ed-3b92faea0c01",
+                "resourcePath": "sprites\\sprYoungWalk\\sprYoungWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9fd09da2-3eba-4629-be05-578cee3a3089",
             "Value": {
                 "id": "91488733-ab0d-499f-ad25-bf241c72436b",
                 "resourcePath": "views\\9fd09da2-3eba-4629-be05-578cee3a3089.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2479073-25be-4f1e-8fbb-7e9be513cd81",
+            "Value": {
+                "id": "25de3e88-5725-4c45-8e83-20efa67ce371",
+                "resourcePath": "sprites\\sprOlderWalk\\sprOlderWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3e728ff-3ccf-47dc-9e20-123909cd1151",
+            "Value": {
+                "id": "82485fe7-20ef-4471-8738-bb52436a7f0e",
+                "resourcePath": "sprites\\sprMiddleWalk\\sprMiddleWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
