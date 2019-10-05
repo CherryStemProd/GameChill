@@ -8,9 +8,9 @@ walksp = 2;
 control = true;
 
 //Rope Physics
-offset_wire = 0;
+/*offset_wire = 0;
 
-host = slef;
+host = self;
 
 next_rope = instance_create(x, y + offset_y, objRope);
 
@@ -40,4 +40,4 @@ repeat (10){
 	with(next_rope){
 		parent = other.last_rope;	
 	}
-}
+}*/
